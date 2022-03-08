@@ -1,0 +1,4 @@
+#Mon Mar 07 19:31:50 IST 2022
+base.0=/home/dell/flutter/LaundryApp/flutter_test_app-master/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
